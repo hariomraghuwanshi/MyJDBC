@@ -14,6 +14,6 @@ This single-class program demonstrates:
    - Java (JDK 8+)
    - JDBC driver JAR (e.g., `mysql-connector-java.jar`)
 
-String url = "jdbc:mysql://localhost:3306/yourdb";  // Database URL
+String url = "jdbc:mysql://localhost:3306/mydatabase";  // Database URL
 String user = "root";                               // DB username
 String password = "password";                       // DB password
